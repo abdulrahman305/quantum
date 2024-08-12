@@ -54,7 +54,7 @@ REQUIRED_PACKAGES = ['cirq-core==1.3.0', 'cirq-google==1.3.0', 'sympy == 1.12']
 
 # placed as extra to not have required overwrite existing nightly installs if
 # they exist.
-EXTRA_PACKAGES = ['tensorflow == 2.15.0']
+EXTRA_PACKAGES = ['tensorflow == 2.17.0']
 CUR_VERSION = '0.7.4'
 
 

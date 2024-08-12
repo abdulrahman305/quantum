@@ -5,4 +5,4 @@ numpy==1.24.2  # TensorFlow can detect if it was built against other versions.
 nbformat==4.4.0
 pylint==2.4.4
 yapf==0.40.2
-tensorflow==2.15.0
+tensorflow==2.17.0
